@@ -1,0 +1,15 @@
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer a {
+    text-decoration: none;
+  }
+  
+  footer .me-3 {
+    margin-right: 1rem !important;
+  }
+  
